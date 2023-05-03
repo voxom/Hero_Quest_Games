@@ -1,6 +1,5 @@
-    {
-      "items": {
-        "bootstrap": [
+    var data = {
+      "items": [
           {
             "id": 1,
             "title": "Apparel",
@@ -24,5 +23,4 @@
             "imageUrl": "arcade.jpg"
           }
         ]
-      }
-    }
+      };
